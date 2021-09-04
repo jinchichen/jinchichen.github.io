@@ -1,1 +1,1 @@
-Sitemap: www.22du.site/sitemap.xml
+Sitemap: http://www.22du.site/sitemap.xml
